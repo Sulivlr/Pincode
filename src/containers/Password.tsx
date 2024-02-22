@@ -43,7 +43,7 @@ const Password: React.FC = () => {
                     </div>
                 ))}
                 <div className="col-md-auto">
-                    <button className="btn btn-primary" onClick={deleteClick}>&lt;</button>
+                    <button className="btn btn-primary" onClick={deleteClick}>Delete</button>
                 </div>
                 <div className="col-md-auto">
                     <button className="btn btn-primary" onClick={enterClick}>Enter</button>
