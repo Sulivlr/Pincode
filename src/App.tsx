@@ -1,6 +1,8 @@
+import Password from "./containers/Password.tsx";
+
 const App = () => (
     <>
-    <h1>Privet</h1>
+    <Password />
     </>
 );
 
